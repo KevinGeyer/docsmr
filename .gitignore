@@ -1,0 +1,8 @@
+# .gitignore for docsmr.com only
+# global .gitignore is in c:\users\KEVIN
+*.txt
+/images
+*.zip
+*.gz
+/data
+
